@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\functions",
-    "\\functions\\ConsoleApp1"
+    "\\functions\\ConsoleApp1",
+    "\\functions\\ConsoleApp1\\ConsoleApp1",
+    "\\LINQ"
   ],
-  "SelectedNode": "\\functions\\ConsoleApp1\\ConsoleApp1.sln",
+  "SelectedNode": "\\LINQ",
   "PreviewInSolutionExplorer": false
 }
